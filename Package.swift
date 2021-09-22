@@ -6,7 +6,7 @@ let package = Package(
     name: "RZImport",
     platforms: [
         .iOS(.v8),
-        .macOS(.v10_8),
+        .macOS(.v10_10),
     ],
     products: [
         .library(
