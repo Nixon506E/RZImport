@@ -17,6 +17,6 @@ let package = Package(
         .target(
             name: "RZImport",
             path: "Classes",
-            publicHeadersPath: ""),
+            publicHeadersPath: "Classes"),
     ]
 )
